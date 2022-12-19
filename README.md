@@ -20,6 +20,8 @@ npm install @mongodb-js/zstd
 | Linux x64 gnu    | ✓      | ✓      | ✓      | ✓      |
 | Linux arm gnu    | ✓      | ✓      | ✓      | ✓      |
 | Linux arm64 gnu  | ✓      | ✓      | ✓      | ✓      |
+| Linux x64 musl   |        | ✓      | ✓      | ✓      |
+| Linux arm64 musl |        | ✓      | ✓      | ✓      |
 
 ## API
 
